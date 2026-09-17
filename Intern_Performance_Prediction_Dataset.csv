@@ -1,0 +1,51 @@
+Intern ID,Intern Name,Department,Attendance (%),Tasks Submitted,Tasks Assigned,Task Completion (%),Feedback Level,Feedback Score,Mentor Interactions,Outcome,Success,Predicted Success Probability (%),Risk Level,Mentor Recommendation
+1,Ayesha Khan,Data Analytics,69,9,13,69.2,Average,2,12,Needs Support,0,17.7,High Risk,Schedule 1:1 mentoring; review attendance and unfinished tasks.
+2,Hamza Ali,Operations,73,9,12,75.0,Poor,1,4,Needs Support,0,17.2,High Risk,Schedule 1:1 mentoring; review attendance and unfinished tasks.
+3,Mariam Noor,Operations,80,11,13,84.6,Good,3,4,Successful,1,55.1,Medium Risk,Increase feedback frequency and monitor weekly task completion.
+4,Omar Farooq,Data Analytics,78,10,13,76.9,Average,2,4,Successful,1,32.7,High Risk,Schedule 1:1 mentoring; review attendance and unfinished tasks.
+5,Sana Malik,Data Analytics,92,7,8,87.5,Average,2,5,Needs Support,0,45.6,Medium Risk,Increase feedback frequency and monitor weekly task completion.
+6,Bilal Ahmed,Operations,75,7,11,63.6,Average,2,11,Needs Support,0,18.5,High Risk,Schedule 1:1 mentoring; review attendance and unfinished tasks.
+7,Hira Shah,Operations,80,9,13,69.2,Good,3,5,Needs Support,0,44.2,Medium Risk,Increase feedback frequency and monitor weekly task completion.
+8,Usman Tariq,Data Analytics,92,10,10,100.0,Excellent,4,3,Successful,1,83.3,Low Risk,Maintain support; consider advanced or stretch assignments.
+9,Iqra Siddiqui,Finance,72,10,12,83.3,Good,3,4,Successful,1,49.6,Medium Risk,Increase feedback frequency and monitor weekly task completion.
+10,Danish Raza,Operations,82,11,13,84.6,Good,3,1,Successful,1,60.0,Medium Risk,Increase feedback frequency and monitor weekly task completion.
+11,Mehak Javed,Finance,93,8,10,80.0,Excellent,4,10,Successful,1,68.3,Medium Risk,Increase feedback frequency and monitor weekly task completion.
+12,Saad Hassan,HR,93,12,13,92.3,Average,2,4,Needs Support,0,50.4,Medium Risk,Increase feedback frequency and monitor weekly task completion.
+13,Aiman Zafar,Operations,95,12,12,100.0,Average,2,3,Successful,1,57.7,Medium Risk,Increase feedback frequency and monitor weekly task completion.
+14,Talha Nadeem,Data Analytics,75,8,9,88.9,Excellent,4,7,Successful,1,67.3,Medium Risk,Increase feedback frequency and monitor weekly task completion.
+15,Laiba Aslam,Operations,97,11,12,91.7,Good,3,1,Successful,1,71.8,Low Risk,Maintain support; consider advanced or stretch assignments.
+16,Zain Abbas,Operations,85,13,14,92.9,Average,2,7,Successful,1,42.3,Medium Risk,Increase feedback frequency and monitor weekly task completion.
+17,Anaya Sheikh,Finance,100,13,14,92.9,Excellent,4,11,Successful,1,76.9,Low Risk,Maintain support; consider advanced or stretch assignments.
+18,Rayan Malik,Operations,80,7,9,77.8,Average,2,9,Successful,1,28.7,High Risk,Schedule 1:1 mentoring; review attendance and unfinished tasks.
+19,Eman Khalid,HR,69,7,8,87.5,Excellent,4,5,Successful,1,65.7,Medium Risk,Increase feedback frequency and monitor weekly task completion.
+20,Fahad Qureshi,Operations,73,7,8,87.5,Excellent,4,9,Successful,1,63.1,Medium Risk,Increase feedback frequency and monitor weekly task completion.
+21,Maha Iqbal,HR,78,8,10,80.0,Good,3,4,Needs Support,0,51.0,Medium Risk,Increase feedback frequency and monitor weekly task completion.
+22,Yasir Butt,Marketing,87,11,11,100.0,Good,3,8,Successful,1,63.3,Medium Risk,Increase feedback frequency and monitor weekly task completion.
+23,Alina Rauf,Marketing,82,7,8,87.5,Good,3,4,Successful,1,58.0,Medium Risk,Increase feedback frequency and monitor weekly task completion.
+24,Arham Aziz,Data Analytics,82,8,8,100.0,Excellent,4,2,Successful,1,80.6,Low Risk,Maintain support; consider advanced or stretch assignments.
+25,Sara Ahmed,HR,81,9,12,75.0,Excellent,4,10,Successful,1,58.9,Medium Risk,Increase feedback frequency and monitor weekly task completion.
+26,Huzaifa Noor,HR,94,8,9,88.9,Good,3,6,Successful,1,63.1,Medium Risk,Increase feedback frequency and monitor weekly task completion.
+27,Nimra Tariq,Data Analytics,74,6,8,75.0,Average,2,2,Successful,1,31.9,High Risk,Schedule 1:1 mentoring; review attendance and unfinished tasks.
+28,Shahzaib Khan,HR,76,8,11,72.7,Good,3,2,Needs Support,0,47.9,Medium Risk,Increase feedback frequency and monitor weekly task completion.
+29,Mahnoor Ali,Operations,74,7,8,87.5,Good,3,1,Needs Support,0,57.2,Medium Risk,Increase feedback frequency and monitor weekly task completion.
+30,Waleed Rehman,Marketing,78,9,11,81.8,Average,2,7,Successful,1,32.0,High Risk,Schedule 1:1 mentoring; review attendance and unfinished tasks.
+31,Areeba Hassan,Data Analytics,92,10,10,100.0,Excellent,4,5,Needs Support,0,81.8,Low Risk,Maintain support; consider advanced or stretch assignments.
+32,Abdullah Shah,Operations,99,8,9,88.9,Average,2,1,Needs Support,0,55.7,Medium Risk,Increase feedback frequency and monitor weekly task completion.
+33,Muneeba Raza,Finance,71,6,8,75.0,Good,3,9,Needs Support,0,37.6,High Risk,Schedule 1:1 mentoring; review attendance and unfinished tasks.
+34,Sameer Jamil,Data Analytics,79,7,8,87.5,Good,3,4,Needs Support,0,56.3,Medium Risk,Increase feedback frequency and monitor weekly task completion.
+35,Arooba Khan,Operations,83,11,12,91.7,Good,3,7,Successful,1,57.3,Medium Risk,Increase feedback frequency and monitor weekly task completion.
+36,Taha Siddiqui,Finance,84,9,9,100.0,Average,2,5,Needs Support,0,48.7,Medium Risk,Increase feedback frequency and monitor weekly task completion.
+37,Minahil Ahmed,Finance,97,10,10,100.0,Excellent,4,1,Needs Support,0,86.1,Low Risk,Maintain support; consider advanced or stretch assignments.
+38,Kashif Noor,Data Analytics,72,8,12,66.7,Average,2,6,Needs Support,0,22.8,High Risk,Schedule 1:1 mentoring; review attendance and unfinished tasks.
+39,Aleena Malik,Finance,86,8,9,88.9,Good,3,5,Needs Support,0,59.9,Medium Risk,Increase feedback frequency and monitor weekly task completion.
+40,Rizwan Qadir,Operations,68,10,13,76.9,Average,2,11,Needs Support,0,21.1,High Risk,Schedule 1:1 mentoring; review attendance and unfinished tasks.
+41,Areeba Javed,Finance,75,7,8,87.5,Average,2,5,Needs Support,0,36.0,High Risk,Schedule 1:1 mentoring; review attendance and unfinished tasks.
+42,Daniyal Shah,Marketing,84,11,12,91.7,Excellent,4,1,Successful,1,78.8,Low Risk,Maintain support; consider advanced or stretch assignments.
+43,Amna Farooq,Finance,70,6,8,75.0,Average,2,5,Needs Support,0,26.8,High Risk,Schedule 1:1 mentoring; review attendance and unfinished tasks.
+44,Muneeb Hassan,HR,68,4,8,50.0,Excellent,4,3,Needs Support,0,44.8,Medium Risk,Increase feedback frequency and monitor weekly task completion.
+45,Rida Aslam,Operations,77,8,11,72.7,Average,2,1,Successful,1,33.3,High Risk,Schedule 1:1 mentoring; review attendance and unfinished tasks.
+46,Adeel Ahmed,Marketing,74,9,10,90.0,Excellent,4,7,Successful,1,67.4,Medium Risk,Increase feedback frequency and monitor weekly task completion.
+47,Hafsa Noor,Marketing,78,12,14,85.7,Excellent,4,1,Needs Support,0,73.6,Low Risk,Maintain support; consider advanced or stretch assignments.
+48,Salman Tariq,HR,83,8,10,80.0,Good,3,7,Needs Support,0,50.1,Medium Risk,Increase feedback frequency and monitor weekly task completion.
+49,Kinza Rauf,Marketing,80,13,14,92.9,Average,2,4,Needs Support,0,43.2,Medium Risk,Increase feedback frequency and monitor weekly task completion.
+50,Shayan Ali,HR,89,10,10,100.0,Excellent,4,5,Successful,1,80.7,Low Risk,Maintain support; consider advanced or stretch assignments.
